@@ -18,3 +18,5 @@ Press Ctrl + G (Go To) → click Special → choose Blanks → click OK.
 Type Null and press Ctrl + Enter.
 
 we can perform so many other actions on the data set also.
+
+For more details check the screen shorts and if more contact me..
